@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "stop_all": false,
+  "message": "",
+  "machines": {
+    "M362-AP7S-SDBS": {
+      "name": "lahham",
+      "allowed": true
+    }
+  }
+}
