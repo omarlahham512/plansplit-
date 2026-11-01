@@ -5,7 +5,7 @@
   "machines": {
     "M362-AP7S-SDBS": {
       "name": "lahham",
-      "allowed": true
+      "allowed": false
     }
   }
 }
