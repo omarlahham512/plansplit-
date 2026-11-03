@@ -18,6 +18,10 @@
     "KTEM-LHWC-GM34": {
       "name": "ghadeer",
       "allowed": true
+    },
+    "34VG-HHKL-JBYX": {
+      "name": "emad",
+      "allowed": true
     }
   }
 }
