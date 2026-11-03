@@ -54,6 +54,10 @@
     "HTRK-FUID-NEMC": {
       "name": "yaser",
       "allowed": true
+    },
+    "PCR3-QALQ-CQ3I": {
+      "name": "abdalrahman",
+      "allowed": true
     }
   }
 }
