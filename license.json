@@ -67,5 +67,84 @@
       "name": "hadeel",
       "allowed": true
     }
+  },
+  "tools": {
+    "legends": {
+      "title": "Legends",
+      "stop_all": false,
+      "message": "",
+      "machines": {
+        "M362-AP7S-SDBS": {
+          "name": "lahham",
+          "allowed": true
+        },
+        "RA2B-J5TS-GW3E": {
+          "name": "KHALED",
+          "allowed": true
+        },
+        "BWF4-LCH3-UEU5": {
+          "name": "hussam",
+          "allowed": true
+        },
+        "KTEM-LHWC-GM34": {
+          "name": "ghadeer",
+          "allowed": true
+        },
+        "34VG-HHKL-JBYX": {
+          "name": "emad",
+          "allowed": true
+        },
+        "WX2L-SBX6-GQHH": {
+          "name": "omar ramadan",
+          "allowed": true
+        },
+        "TZN2-PPMZ-H5RX": {
+          "name": "naser",
+          "allowed": true
+        },
+        "7EOV-UB23-AFHX": {
+          "name": "obada",
+          "allowed": true
+        },
+        "SMZL-PRMY-5NNZ": {
+          "name": "abedalqader",
+          "allowed": true
+        },
+        "7ZYL-O5MZ-5GVW": {
+          "name": "mohannad",
+          "allowed": true
+        },
+        "3EWV-NXOI-TRXW": {
+          "name": "farah",
+          "allowed": true
+        },
+        "LRX4-73SZ-2NGO": {
+          "name": "ahmad ramadan",
+          "allowed": true
+        },
+        "HTRK-FUID-NEMC": {
+          "name": "yaser",
+          "allowed": true
+        },
+        "PCR3-QALQ-CQ3I": {
+          "name": "abdalrahman",
+          "allowed": true
+        },
+        "AW3R-XAZR-5JMT": {
+          "name": "mahmoud",
+          "allowed": true
+        },
+        "5VB3-TOSZ-5LDI": {
+          "name": "hadeel",
+          "allowed": true
+        }
+      },
+      "update": {
+        "repo": "omarlahham512/alphaomega-tools",
+        "latest": "legends-latest.json",
+        "tag": "legends-v",
+        "asset": "Legends-Setup-{version}.exe"
+      }
+    }
   }
 }
