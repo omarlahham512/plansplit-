@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/omarlahham512/plansplit-/releases/download/legends-v1.2.0/Legends-Setup-1.2.0.exe",
-  "sha256": "571889522f3f67609a1b6a653210803a956bcb5b3c209ae7294eff51c43ab07b",
-  "notes": "Legends 1.2.0 - press once: legend on every page, press again: removes them. Legend now wide enough for long names and numbers."
+  "version": "1.2.1",
+  "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.2.1/Legends-Setup-1.2.1.exe",
+  "sha256": "cc4d28adb1f80d2bfbe3fe5e85290e89880a7d6e84952d65dcd651dd73b5a669",
+  "notes": "Legends 1.2.1 - updates now come from the alphaomega-tools repository."
 }
