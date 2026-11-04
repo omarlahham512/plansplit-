@@ -80,63 +80,63 @@
         },
         "RA2B-J5TS-GW3E": {
           "name": "KHALED",
-          "allowed": true
+          "allowed": false
         },
         "BWF4-LCH3-UEU5": {
           "name": "hussam",
-          "allowed": true
+          "allowed": false
         },
         "KTEM-LHWC-GM34": {
           "name": "ghadeer",
-          "allowed": true
+          "allowed": false
         },
         "34VG-HHKL-JBYX": {
           "name": "emad",
-          "allowed": true
+          "allowed": false
         },
         "WX2L-SBX6-GQHH": {
           "name": "omar ramadan",
-          "allowed": true
+          "allowed": false
         },
         "TZN2-PPMZ-H5RX": {
           "name": "naser",
-          "allowed": true
+          "allowed": false
         },
         "7EOV-UB23-AFHX": {
           "name": "obada",
-          "allowed": true
+          "allowed": false
         },
         "SMZL-PRMY-5NNZ": {
           "name": "abedalqader",
-          "allowed": true
+          "allowed": false
         },
         "7ZYL-O5MZ-5GVW": {
           "name": "mohannad",
-          "allowed": true
+          "allowed": false
         },
         "3EWV-NXOI-TRXW": {
           "name": "farah",
-          "allowed": true
+          "allowed": false
         },
         "LRX4-73SZ-2NGO": {
           "name": "ahmad ramadan",
-          "allowed": true
+          "allowed": false
         },
         "HTRK-FUID-NEMC": {
           "name": "yaser",
-          "allowed": true
+          "allowed": false
         },
         "PCR3-QALQ-CQ3I": {
           "name": "abdalrahman",
-          "allowed": true
+          "allowed": false
         },
         "AW3R-XAZR-5JMT": {
           "name": "mahmoud",
-          "allowed": true
+          "allowed": false
         },
         "5VB3-TOSZ-5LDI": {
           "name": "hadeel",
-          "allowed": true
+          "allowed": false
         }
       },
       "update": {
