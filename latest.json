@@ -1,6 +1,6 @@
 {
-  "version": "1.19.3",
-  "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.3/PlanSplit-Setup-1.19.3.exe",
-  "sha256": "a961ab22fe5db8b83a9b174f9d7188294f6d64647ceb98f17846efc76510f3e0",
-  "notes": "PlanSplit 1.19.3\n- Scale is now checked against the dimensions printed on each sheet (scanned sheets too).\n- \"Scale Check\" line drawn on every scaled page in PlanSwift - it should match the printed dimension.\n- Vertical dimensions are now read.\n- Better naming: Toll Brothers roof pages, MODERN COASTAL, elevations drawn A1/A2/A3, W/ OPT. option sheets.\n- Several filing fixes. Please save your work - PlanSplit will close and reopen to update."
+  "version": "1.19.4",
+  "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.4/PlanSplit-Setup-1.19.4.exe",
+  "sha256": "ff7d26687e4ec4be1162680da633c9094142ae1a9be9ce158d9fed6e392c59f1",
+  "notes": "PlanSplit 1.19.4\n- Behind-the-scenes update: no change to how PlanSplit names or files sheets.\n- Please save your work - PlanSplit will close and reopen to update."
 }
