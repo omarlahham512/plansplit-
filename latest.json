@@ -1,6 +1,6 @@
 {
-  "version": "1.19.4",
-  "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.4/PlanSplit-Setup-1.19.4.exe",
-  "sha256": "ff7d26687e4ec4be1162680da633c9094142ae1a9be9ce158d9fed6e392c59f1",
-  "notes": "PlanSplit 1.19.4\n- Behind-the-scenes update: no change to how PlanSplit names or files sheets.\n- Please save your work - PlanSplit will close and reopen to update."
+  "version": "1.19.5",
+  "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.5/PlanSplit-Setup-1.19.5.exe",
+  "sha256": "6653e6c7c80ed6eb1693c252526294823848e762f83da8bf1666867aeb1722ab",
+  "notes": "PlanSplit 1.19.5\n- Send to PlanSwift: thin lines are no longer drawn light - pages look like PlanSwift's own.\n- PlanSplit can now offer other Alpha Omega tools allowed on this computer.\n- Please save your work - PlanSplit will close and reopen to update."
 }
