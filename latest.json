@@ -1,18 +1,6 @@
 {
-  "version": "1.19.5",
-  "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.5/PlanSplit-Setup-1.19.5.exe",
-  "sha256": "6653e6c7c80ed6eb1693c252526294823848e762f83da8bf1666867aeb1722ab",
-  "notes": "PlanSplit 1.19.5\n- Send to PlanSwift: thin lines are no longer drawn light - pages look like PlanSwift's own.\n- PlanSplit can now offer other Alpha Omega tools allowed on this computer.\n- Please save your work - PlanSplit will close and reopen to update.",
-  "offers": [
-    {
-      "to": [
-        "RA2B-J5TS-GW3E"
-      ],
-      "label": "KHALED",
-      "version": "1.19.11",
-      "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.11/PlanSplit-Setup-1.19.11.exe",
-      "sha256": "632d72db4f4cb96ac641e49009a8af2e0f86d9fc2ae33b47b91ab127ac31294c",
-      "notes": "FIX"
-    }
-  ]
+  "version": "1.19.12",
+  "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.12/PlanSplit-Setup-1.19.12.exe",
+  "sha256": "641387eba7bfbb6d35d38f37a4d6d30e837fdbeaba28efb85417b0df77263ded",
+  "notes": "fixing bugs"
 }
