@@ -145,6 +145,26 @@
         "tag": "legends-v",
         "asset": "Legends-Setup-{version}.exe"
       }
+    },
+    "save-all": {
+      "title": "Save All",
+      "stop_all": false,
+      "message": "",
+      "machines": {
+        "M362-AP7S-SDBS": {
+          "name": "lahham",
+          "allowed": true
+        }
+      },
+      "update": {
+        "repo": "omarlahham512/alphaomega-tools",
+        "latest": "save-all-latest.json",
+        "tag": "save-all-v",
+        "asset": "SaveAll-Setup-{version}.exe"
+      },
+      "install": {
+        "check": "Alpha Omega/SaveAll/SaveAll.exe"
+      }
     }
   }
 }
