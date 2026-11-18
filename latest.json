@@ -6,6 +6,16 @@
   "offers": [
     {
       "to": [
+        "RA2B-J5TS-GW3E"
+      ],
+      "label": "KHALED",
+      "version": "1.19.16",
+      "url": "https://github.com/omarlahham512/plansplit-/releases/download/v1.19.16/PlanSplit-Setup-1.19.16.exe",
+      "sha256": "484875e847cd35a449204e188e7ca70b8a9bf0b2be8c42b5ce1c0df4ea2323fb",
+      "notes": "Fixing bugs"
+    },
+    {
+      "to": [
         "PCR3-QALQ-CQ3I"
       ],
       "label": "abdalrahman",
